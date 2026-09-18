@@ -17,7 +17,7 @@ This repository contains automated end-to-end tests for the **Sauce Labs** check
 
    1. **Clone the repository**
 
- -  `git clone https://github.com/rafia-ijaz/SauceLab-CheckoutFlow-Automation-Playwright.git`
+ -  `git clone https://github.com/aster-go/SauceLab-CheckoutFlow-Automation-Playwright.git`
  -  `cd SauceLab-CheckoutFlow-Automation-Playwright`
 
 2. **Install dependencies**
@@ -94,4 +94,4 @@ The test suite automates the happy path checkout flow on SauceDemo:
 ### 👩‍💻 Author
   Rafia Ijaz | 
   QA Automation Engineer | 
-  GitHub: rafia-ijaz
+  GitHub: aster-go
